@@ -5,6 +5,9 @@
         "Make"
     ],
     "filePatterns": [
-        "Makefile"
+        "Makefile",
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
     ]
 }
