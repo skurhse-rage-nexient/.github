@@ -1,6 +1,6 @@
 {
-    "name": "Platform MAKE Workflow",
-    "description": "Platform CI MAKE starter workflow.",
+    "name": "Simple Docker Action",
+    "description": "A Docker Action workflow that prints a message.",
     "categories": [
         "Dockerfile"
     ],
