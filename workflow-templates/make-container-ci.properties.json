@@ -1,0 +1,10 @@
+{
+    "name": "Platform MAKE Workflow",
+    "description": "Platform CI MAKE starter workflow.",
+    "categories": [
+        "Make"
+    ],
+    "filePatterns": [
+        "Makefile"
+    ]
+}

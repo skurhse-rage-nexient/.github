@@ -1,0 +1,13 @@
+name: Make Container CI
+
+on:
+  push:
+    branches: [ "init" ]
+#  pull_request:
+#    branches: [ $default-branch ]
+
+jobs:
+  build:
+    container:
+      image: hello-world:latest
+
