@@ -2,12 +2,11 @@
     "name": "Platform MAKE Workflow",
     "description": "Platform CI MAKE starter workflow.",
     "categories": [
-        "Make"
+        "Makefile"
     ],
     "filePatterns": [
         "Makefile",
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
+        ".make",
+        ".makefile"
     ]
 }
