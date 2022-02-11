@@ -1,6 +1,6 @@
 {
-    "name": "Simple Docker Action",
-    "description": "A Docker Action workflow that prints a message.",
+    "name": "Make Docker Action",
+    "description": "Invokes make from the dev container.",
     "categories": [
         "Dockerfile"
     ],
